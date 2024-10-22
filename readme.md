@@ -19,6 +19,8 @@ A simple RESTful API for managing a collection of books, built with Node.js and 
 
    ```bash
    cd books-api
-![Screenshot 2024-10-21 at 10 44 56 PM](https://github.com/user-attachments/assets/b431a5ff-f83a-4c5b-9e50-f66b4d3a8e3b)
-<img width="1280" alt="Screenshot 2024-10-21 at 10 44 45 PM" src="https://github.com/user-attachments/assets/f12a3401-4d0b-440e-8609-f301e41c2021">
-<img width="1280" alt="Screenshot 2024-10-21 at 10 44 27 PM" src="https://github.com/user-attachments/assets/b7b226cf-f856-4011-b24a-dfd21111d596">
+<img width="1280" alt="Screenshot 2024-10-23 at 12 33 38 AM" src="https://github.com/user-attachments/assets/22943cc4-59ad-4f73-bed0-497ee9613670">
+<img width="1280" alt="Screenshot 2024-10-23 at 12 35 13 AM" src="https://github.com/user-attachments/assets/7d83c345-eefe-422a-a29e-5f3de4bf0a0d">
+
+<img width="1280" alt="Screenshot 2024-10-23 at 12 34 08 AM" src="https://github.com/user-attachments/assets/9ef4283b-b5cd-4928-81d4-0edeaab43c4b">
+<img width="619" alt="Screenshot 2024-10-23 at 12 36 25 AM" src="https://github.com/user-attachments/assets/bc87631d-70fa-477f-8e1c-970cd749ed4c">
